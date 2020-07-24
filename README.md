@@ -1,6 +1,5 @@
 ### Hello, my friend! 🤟
-
-I love writing code that does cool things!
+> I love writing code that does cool things!
 
 - 🔭 I’m currently working on ...
   - [Neo](https://github.com/EthanThatOneKid/neo), an interpreter for my web-automation language.
@@ -8,5 +7,7 @@ I love writing code that does cool things!
 
 ### How to reach me 💌
 [![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/EthanThatOneKid?style=social)](https://www.reddit.com/u/EthanThatOneKid)
+
 [![GitHub followers](https://img.shields.io/github/followers/EthanThatOneKid?style=social)](https://github.com/EthanThatOneKid)
+
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/__etok__)
