@@ -1,7 +1,7 @@
 ### Hello, my friend! 🤟
 > I love writing code that does cool things!
 
-- 🔭 I’m currently working on ...
+- I’m currently working on ...
   - [Neo](https://github.com/EthanThatOneKid/neo), an interpreter for my web-automation language.
   - Multicade, an online platform for playing games in a simulated arcade universe!
 
