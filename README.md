@@ -1,6 +1,17 @@
 [![EthanThatOneKid's Banner](media/banner.png)][site]
 
-<!-- [![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a-coffee-%23FF813F)][bmac] -->
+```ts
+export default class EthanDavidson {
+  constructor(
+    public pronouns = "he/him/his", // ✨
+    public display_name = "EthanThatOneKid", // 👨‍💻
+    public university = "California State University Fullerton", // 🐘
+    public familiar_languages = [
+      "TypeScript", "JavaScript", "HTML", "CSS", "Svelte", "Angular",
+      "Swift", "Go", "C++", "Python", "x86 Assembly", "QuickBASIC",
+    ],
+  ) {}
+}   
+```
 
-[bmac]: https://buymeacoff.ee/etok
 [site]: http://ethandavidson.com/
