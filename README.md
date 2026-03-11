@@ -48,6 +48,8 @@ leading research at [Wazoo](https://wazoo.dev)** | 🏢 **Ex-Google**
   linting errors surgically in high-compliance codebases
 - 📈 **[TradingPings.com](https://tradingpings.com)** – Analyzes market signals
   with AI-driven trading alerts
+- 🪐 **[pixel-planet](https://pixel-planet.fartlabs.org)** – Procedurally
+  generates pixel art planets as a React component library
 
 ## Legacy work
 
@@ -88,6 +90,7 @@ leading research at [Wazoo](https://wazoo.dev)** | 🏢 **Ex-Google**
 
 ## Latest writings
 
+- [FartLabs in 2025](https://fartlabs.org/2025)
 - [FartLabs in 2024](https://fartlabs.org/2024)
 - [FartHacks: Lessons Learned](https://fartlabs.org/hackathon/)
 - [About FartLabs](https://fartlabs.org/mission)
@@ -98,8 +101,8 @@ leading research at [Wazoo](https://wazoo.dev)** | 🏢 **Ex-Google**
 
 ## Connect
 
-[![X.com (formerly Twitter)](https://img.shields.io/badge/-@etok__me-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/etok_me)
-[![LinkedIn](https://img.shields.io/badge/-Ethan_Davidson-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/etok)
+[![X.com (formerly Twitter)](https://img.shields.io/badge/-@etok__me-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/etok_me)
+[![LinkedIn](https://img.shields.io/badge/-Ethan_Davidson-0077B5?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo%3D)](https://linkedin.com/in/etok)
 [![Bluesky](https://img.shields.io/badge/-@etok.me-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/etok.me)
 [![Portfolio](https://img.shields.io/badge/-etok.me-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://etok.me)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EthanThatOneKid)
@@ -120,15 +123,12 @@ leading research at [Wazoo](https://wazoo.dev)** | 🏢 **Ex-Google**
 - **[FartHacks 2025 Opening Ceremony](https://youtu.be/bbeME9BaSKs)** - Kickoff
   session for FartLabs' premier community sprint event.
 
-<details>
-<summary>Random facts</summary>
+## Random facts
 
-- Certified in SCUBA diving at age 10 to be his dad's dive buddy
+- Certified in SCUBA diving at age 10 to be my dad's dive buddy 🫧
 - Serial community builder & founder (Wazoo, FartLabs, FullyHacks, ACM CSUF,
   Vaqcoders)
 - My favorite Pokemon include Porygon, Farfetch'd, Togekiss, Greninja, and
   Typhlosion
-
-</details>
 
 ![Total profile view count](https://komarev.com/ghpvc/?username=ethanthatonekid&color=green)
