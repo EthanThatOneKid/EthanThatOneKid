@@ -20,16 +20,14 @@ Ex-[**@Google**](https://github.com/google) 🦕 California
 
 - 🧠 **[worlds](https://github.com/wazootech/worlds)** – Provides the
   infrastructure layer for neuro-symbolic memory
-- 🔍 **[go-protocol](https://fartlabs.org/go-protocol)** – Defines an
+- 🔍 **[go-protocol](https://github.com/fartlabs/go)** – Defines an
   Internet-Draft for deterministic shortlink resolution
-- 🖥️ **[FartLabs Computer](https://fartlabs.org)** – Delivers a cloud-native
-  compute environment
 - 🌳 **[ts-derive](https://github.com/fartlabs/ts-derive)** – Derives TypeScript
   types and structures automatically
-- 🕵️ **[aml-agent](https://github.com/EthanThatOneKid/aml-agent)** – Automates
-  AML compliance decisions with agentic reasoning
 - 🗺️ **[sparql-agent](https://github.com/EthanThatOneKid/sparql-agent)** –
   Manages federated knowledge and SPARQL execution
+  - 🕵️ **[aml-agent](https://github.com/EthanThatOneKid/aml-agent)** – Automates
+    AML compliance decisions with agentic reasoning
 - 🛎️ **[concierge](https://github.com/EthanThatOneKid/concierge.snfforms.com)**
   – Powers a multi-agent conversational system for industrial printing
 - 🔍 **[Difflint](https://github.com/EthanThatOneKid/difflint)** – Identifies
@@ -40,6 +38,10 @@ Ex-[**@Google**](https://github.com/google) 🦕 California
   generates pixel art planets as a React component library
 
 ## Fun with JSX
+
+> [!NOTE]
+> I wrote a
+> [documentation page to help developers understand JSX](https://jsonx.fart.tools/jsx).
 
 - 🐉 **[jsonx](https://github.com/fartlabs/jsonx)** – Library that enables
   developers to build their own JSX runtimes
