@@ -2,9 +2,8 @@
 
 # Hi, I'm [Ethan](https://etok.me) 👋
 
-🧪 Software Engineer leading research
-[**@wazootech**](https://github.com/wazootech) 🦄
-Ex-[**@Google**](https://github.com/google) 🦕 California
+🦄 Ex-[**@Google**](https://github.com/google) 🧪 Software Engineer leading
+research [**@wazootech**](https://github.com/wazootech) 🦕 California
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -26,8 +25,8 @@ Ex-[**@Google**](https://github.com/google) 🦕 California
   types and structures automatically
 - 🗺️ **[sparql-agent](https://github.com/EthanThatOneKid/sparql-agent)** –
   Manages federated knowledge and SPARQL execution
-  - 🕵️ **[aml-agent](https://github.com/EthanThatOneKid/aml-agent)** – Automates
-    AML compliance decisions with agentic reasoning
+- 🕵️ **[aml-agent](https://github.com/EthanThatOneKid/aml-agent)** – Automates
+  AML compliance decisions with agentic reasoning
 - 🛎️ **[concierge](https://github.com/EthanThatOneKid/concierge.snfforms.com)**
   – Powers a multi-agent conversational system for industrial printing
 - 🔍 **[Difflint](https://github.com/EthanThatOneKid/difflint)** – Identifies
@@ -39,16 +38,16 @@ Ex-[**@Google**](https://github.com/google) 🦕 California
 
 ## Fun with JSX
 
-> [!NOTE]
-> I wrote a
-> [documentation page to help developers understand JSX](https://jsonx.fart.tools/jsx).
-
 - 🐉 **[jsonx](https://github.com/fartlabs/jsonx)** – Library that enables
   developers to build their own JSX runtimes
 - 🛰️ **[rt/rtx](https://github.com/fartlabs/rt)** – JSX-powered routing for
   modern web ecosystems
 - 📄 **[ht/htx](https://github.com/fartlabs/ht)** – Type-safe JSX-powered HTML
 - 🧬 **[agx](https://github.com/fartlabs/agx)** – JSX-powered agentic workflows
+
+> [!NOTE]
+> I wrote a
+> [documentation page to help developers understand JSX](https://jsonx.fart.tools/jsx).
 
 ## Legacy work
 
@@ -78,13 +77,13 @@ Ex-[**@Google**](https://github.com/google) 🦕 California
 
 ## What I'm doing
 
-- **Builds the AI-native Semantic Web** – Engineering knowledge infrastructure
+- **Building the AI-native Semantic Web** – Engineering knowledge infrastructure
   for next-generation intelligence.
-- **Worlds at Wazoo** – Delivering neuro-symbolic world models and developer
-  toolchains.
+- **Worlds at [Wazoo](https://wazoo.dev)** – Delivering neuro-symbolic world
+  models and developer toolchains.
 - **Rapid prototyping** – Launching production-ready applications in days, not
   months.
-- **Open-sources everything** – Sharing experimental developer tools and fun
+- **Build in public** – Open-sourcing experimental developer tools and fun
   projects via [FartLabs](https://fartlabs.org).
 
 ## Latest writings
@@ -110,7 +109,7 @@ Ex-[**@Google**](https://github.com/google) 🦕 California
 
 ### Recognition
 
-- Summer Google Software Engineer Intern @ Hotel Center and Dataplex UI
+- Summer Google Software Engineer Intern @ Dataplex UI and Hotel Center
 - Won "[Ryan Dahl](https://tinyclouds.org/)'s Favorite" @ Deno Subhosting
   Hackathon
 - 1st Place @ HackSC 2024 (Anyone Protocol)
@@ -121,13 +120,15 @@ Ex-[**@Google**](https://github.com/google) 🦕 California
   Guest appearance on Sachin Lodhi's podcast discussing the future of AI and web
   innovation.
 - **[FartHacks 2025 Opening Ceremony](https://youtu.be/bbeME9BaSKs)** - Kickoff
-  session for FartLabs' premier community sprint event.
+  session for FartLabs' premier community hackathon.
 
 ## Random facts
 
 - Certified in SCUBA diving at age 10 to be my dad's dive buddy 🫧
-- Serial community builder & founder (Wazoo, FartLabs, FullyHacks, ACM CSUF,
-  Vaqcoders)
+- Serial community builder & founder ([Wazoo](https://wazoo.dev),
+  [FartLabs](https://fartlabs.org),
+  [FullyHacks](https://fullyhacks.acmcsuf.com), [ACM CSUF](https://acmcsuf.com),
+  [Vaqcoders](https://vaqcoders.github.io))
 - My favorite Pokemon include Porygon, Farfetch'd, Togekiss, Greninja, and
   Typhlosion
 
