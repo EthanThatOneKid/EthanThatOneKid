@@ -17,29 +17,29 @@ research [**@wazootech**](https://github.com/wazootech) 🦕 California
 
 ## Current projects
 
-- 🧠 **[worlds](https://github.com/wazootech/worlds)** – Provides the
-  infrastructure layer for neuro-symbolic memory
-- 🔍 **[go-protocol](https://github.com/fartlabs/go)** – Defines an
-  Internet-Draft for deterministic shortlink resolution
-- 🌳 **[ts-derive](https://github.com/fartlabs/ts-derive)** – Derives TypeScript
-  types and structures automatically
+- 🧠 **[worlds](https://github.com/wazootech/worlds)** – Infrastructure layer
+  for neuro-symbolic memory
+- 🔍 **[go-protocol](https://github.com/fartlabs/go)** – Internet-Draft for
+  deterministic shortlink resolution
+- 🌳 **[ts-derive](https://github.com/fartlabs/ts-derive)** – Automatic
+  TypeScript type and structure derivation
 - 🗺️ **[sparql-agent](https://github.com/EthanThatOneKid/sparql-agent)** –
-  Manages federated knowledge and SPARQL execution
-- 🕵️ **[aml-agent](https://github.com/EthanThatOneKid/aml-agent)** – Automates
+  Federated knowledge management and SPARQL execution
+- 🕵️ **[aml-agent](https://github.com/EthanThatOneKid/aml-agent)** – Automated
   AML compliance decisions with agentic reasoning
 - 🛎️ **[concierge](https://github.com/EthanThatOneKid/concierge.snfforms.com)**
-  – Powers a multi-agent conversational system for industrial printing
-- 🔍 **[Difflint](https://github.com/EthanThatOneKid/difflint)** – Identifies
-  linting errors surgically in high-compliance codebases
-- 📈 **[TradingPings.com](https://tradingpings.com)** – Analyzes market signals
+  – Multi-agent conversational system for industrial printing
+- 🔍 **[Difflint](https://github.com/EthanThatOneKid/difflint)** – Surgical
+  linting error identification for high-compliance codebases
+- 📈 **[TradingPings.com](https://tradingpings.com)** – Market signal analysis
   with AI-driven trading alerts
-- 🌎 **[pixel-planet](https://pixel-planet.fartlabs.org)** – Procedurally
-  generates pixel art planets as a React component library
+- 🌎 **[pixel-planet](https://pixel-planet.fartlabs.org)** – Procedural pixel
+  art planet generation as a React component library
 
 ## Fun with JSX
 
-- 🐉 **[jsonx](https://github.com/fartlabs/jsonx)** – Library that enables
-  developers to build their own JSX runtimes
+- 🐉 **[jsonx](https://github.com/fartlabs/jsonx)** – Library for custom JSX
+  runtimes
 - 🛰️ **[rt/rtx](https://github.com/fartlabs/rt)** – JSX-powered routing for
   modern web ecosystems
 - 📄 **[ht/htx](https://github.com/fartlabs/ht)** – Type-safe JSX-powered HTML
@@ -51,25 +51,24 @@ research [**@wazootech**](https://github.com/wazootech) 🦕 California
 
 ## Legacy work
 
-- 🎓 **[acmcsuf.com](https://acmcsuf.com)** – Orchestrated a community website
-  serving 100+ contributors
-- 💻 **[FullyHacks](https://fullyhacks.acmcsuf.com)** – Architected a flagship
-  collegiate hackathon platform
-- 🧊 **[Deno Blocks](https://blocks.deno.dev)** – Developed a no-code TypeScript
-  platform recognized by Ryan Dahl
-- 💰 **[RuFi](https://github.com/EthanThatOneKid/rufi)** – Enabled spare change
+- 🎓 **[acmcsuf.com](https://acmcsuf.com)** – Community website for 100+
+  contributors
+- 💻 **[FullyHacks](https://fullyhacks.acmcsuf.com)** – Flagship collegiate
+  hackathon platform
+- 🧊 **[Deno Blocks](https://blocks.deno.dev)** – No-code TypeScript platform
+  recognized by Ryan Dahl
+- 💰 **[RuFi](https://github.com/EthanThatOneKid/rufi)** – Spare change
   donations via voice-enabled technology
-- 🪐 **[nasa-worlds](https://ethanthatonekid.github.io/nasa-worlds/)** – Curated
-  retro-futuristic illustrations for the NASA archive
+- 🪐 **[nasa-worlds](https://ethanthatonekid.github.io/nasa-worlds/)** –
+  Retro-futuristic illustrations for the NASA archive
 - 🎨
   **[reddit-place-clone](https://github.com/EthanThatOneKid/reddit-place-clone)**
-  – Engineered a real-time collaborative pixel canvas
-- 🎭 **[Holosuite](https://holosuite.io)** – Created a simulation-sharing
-  platform
-- 🐈‍⬛ **[neo](https://github.com/EthanThatOneKid/neo-cli)** – Authored a
-  web-automation scripting language interpreter
-- 💩 **[fart](https://github.com/FartLabs/fart)** – Generated polyglot type
-  definitions for cross-ecosystem interop
+  – Real-time collaborative pixel canvas
+- 🎭 **[Holosuite](https://holosuite.io)** – Simulation-sharing platform
+- 🐈‍⬛ **[neo](https://github.com/EthanThatOneKid/neo-cli)** – Web-automation
+  scripting language interpreter
+- 💩 **[fart](https://github.com/FartLabs/fart)** – Polyglot type definitions
+  for cross-ecosystem interop
 
 ## GitHub activity
 
@@ -77,16 +76,16 @@ research [**@wazootech**](https://github.com/wazootech) 🦕 California
 
 ## What I'm doing
 
-- **Building the AI-native Semantic Web** – Engineering knowledge infrastructure
-  for next-generation intelligence.
-- **Worlds at [Wazoo](https://wazoo.dev)** – Delivering neuro-symbolic world
-  models and developer toolchains.
-- **Rapid prototyping** – Launching production-ready applications in days, not
-  months.
-- **Build in public** – Open-sourcing experimental developer tools and fun
-  projects via [FartLabs](https://fartlabs.org).
+- Taking daily walks with my dog.
+- Traveling for conventions like Comic Con, Wondercon, and the Pokémon World
+  Championships, and connecting with builders at hackathons, office hours, and
+  technical workshops.
+- Building the AI-native Semantic Web via [Worlds](https://docs.wazoo.dev) at
+  [Wazoo](https://wazoo.dev).
 
-## Latest writings
+  <!-- TODO: Add a photo of Bella (or the two of us together) here to lean into the human-first feel -->
+
+## Featured writings
 
 - [FartLabs in 2025](https://fartlabs.org/2025)
 - [FartLabs in 2024](https://fartlabs.org/2024)
@@ -95,13 +94,17 @@ research [**@wazootech**](https://github.com/wazootech) 🦕 California
 - [Understanding JSX](https://jsonx.fart.tools/jsx)
 - [Genuary Codelab](https://github.com/acmcsufoss/acmcsuf.com/discussions/742)
 - [What is RSS?](https://github.com/acmcsufoss/acmcsuf.com/discussions/269)
-- [My Discord Screen Name](https://github.com/EthanThatOneKid/ethan-print#readme)
+- [My X.com Screen Name](https://github.com/EthanThatOneKid/ethan-print#readme)
 
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/-etok.me-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://etok.me)
+[![Resume](https://img.shields.io/badge/-Resume-EB7101?style=flat-square&logo=google-docs&logoColor=white)](https://github.com/EthanThatOneKid/resume/blob/main/resume.pdf)
 [![X.com (formerly Twitter)](https://img.shields.io/badge/-@etok__me-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/etok_me)
 [![LinkedIn](https://img.shields.io/badge/-Ethan_Davidson-0077B5?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo%3D)](https://linkedin.com/in/etok)
+[![Instagram](https://img.shields.io/badge/-@ethanthatonekid-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ethanthatonekid)
+[![Devpost](https://img.shields.io/badge/-@ethanthatonekid-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/ethanthatonekid)
+[![Calendar](https://img.shields.io/badge/-Meet-4285F4?style=flat-square&logo=google-calendar&logoColor=white)](https://calendar.app.google/bNFQha5BQzVYL9ag8)
 [![Bluesky](https://img.shields.io/badge/-@etok.me-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/etok.me)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EthanThatOneKid)
 
@@ -127,8 +130,8 @@ research [**@wazootech**](https://github.com/wazootech) 🦕 California
 - Certified in SCUBA diving at age 10 to be my dad's dive buddy 🫧
 - Serial community builder & founder ([Wazoo](https://wazoo.dev),
   [FartLabs](https://fartlabs.org),
-  [FullyHacks](https://fullyhacks.acmcsuf.com), [ACM CSUF](https://acmcsuf.com),
-  [Vaqcoders](https://vaqcoders.github.io))
+  [FullyHacks](https://fullyhacks.acmcsuf.com),
+  [acmcsuf.com](https://acmcsuf.com), [Vaqcoders](https://vaqcoders.github.io))
 - My favorite Pokemon include Porygon, Farfetch'd, Togekiss, Greninja, and
   Typhlosion
 
